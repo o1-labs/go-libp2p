@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p
+module github.com/o1-labs/go-libp2p
 
 go 1.17
 
@@ -25,7 +25,6 @@ require (
 	github.com/libp2p/go-libp2p-peerstore v0.6.0
 	github.com/libp2p/go-libp2p-resource-manager v0.3.0
 	github.com/libp2p/go-libp2p-testing v0.9.2
-	github.com/libp2p/go-mplex v0.7.0
 	github.com/libp2p/go-msgio v0.2.0
 	github.com/libp2p/go-nat v0.1.0
 	github.com/libp2p/go-netroute v0.2.0
@@ -42,6 +41,7 @@ require (
 	github.com/multiformats/go-multihash v0.1.0
 	github.com/multiformats/go-multistream v0.3.3
 	github.com/multiformats/go-varint v0.0.6
+	github.com/o1-labs/go-mplex v0.7.1
 	github.com/prometheus/client_golang v1.12.1
 	github.com/raulk/go-watchdog v1.2.0
 	github.com/stretchr/testify v1.7.0

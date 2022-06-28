@@ -5,7 +5,7 @@ import (
 
 	"github.com/libp2p/go-libp2p-core/network"
 
-	mp "github.com/libp2p/go-mplex"
+	mp "github.com/o1-labs/go-mplex"
 )
 
 // stream implements network.MuxedStream over mplex.Stream.
