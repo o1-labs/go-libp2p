@@ -41,7 +41,7 @@ require (
 	github.com/multiformats/go-multihash v0.1.0
 	github.com/multiformats/go-multistream v0.3.3
 	github.com/multiformats/go-varint v0.0.6
-	github.com/o1-labs/go-mplex v0.7.1
+	github.com/o1-labs/go-mplex v0.7.2
 	github.com/prometheus/client_golang v1.12.1
 	github.com/raulk/go-watchdog v1.2.0
 	github.com/stretchr/testify v1.7.0
